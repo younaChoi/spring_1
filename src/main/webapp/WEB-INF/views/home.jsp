@@ -17,5 +17,6 @@
 <a href="./qna/qnaList?curPage=1">go qna</a>
 <P>  The time on the server is ${serverTime}. </P>
 
+	git
 </body>
 </html>
